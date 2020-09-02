@@ -1,2 +1,2 @@
 # pordentrodomundodosmapasdigitais
-Iniciaçãoacartografiaescolar
+Iniciaçãoacartografiatematica
